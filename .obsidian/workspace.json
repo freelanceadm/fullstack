@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "nextjs vite react"
             }
+          },
+          {
+            "id": "0ccf2f2dcb18c957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend fastapi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "backend fastapi"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nextjs vite react.md",
+                "file": "backend fastapi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for nextjs vite react"
+              "title": "Backlinks for backend fastapi"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nextjs vite react.md",
+                "file": "backend fastapi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from nextjs vite react"
+              "title": "Outgoing links from backend fastapi"
             }
           },
           {
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nextjs vite react.md",
+                "file": "backend fastapi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of nextjs vite react"
+              "title": "Outline of backend fastapi"
             }
           }
         ]
@@ -184,10 +198,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "c3c1bbae31572ee8",
+  "active": "0ccf2f2dcb18c957",
   "lastOpenFiles": [
-    "ssh-keys.md",
     "nextjs vite react.md",
+    "backend fastapi.md",
+    "front/front-vite/vite.config.ts",
+    "front/front-vite/tsconfig.node.json",
+    "front/front-vite/tsconfig.json",
+    "front/front-vite/tsconfig.app.json",
+    "front/front-vite/src/main.tsx",
+    "front/front-vite/src/index.css",
+    "front/front-vite/src/assets/react.svg",
+    "front/front-vite/src/assets",
+    "front/front-vite/src/App.tsx",
+    "front/front-vite/src/App.css",
+    "front/front-vite/src",
+    "front/front-vite/public/vite.svg",
+    "front/front-vite/README.md",
+    "front/front-nextjs/public/window.svg",
+    "front/front-nextjs/public/vercel.svg",
+    "front/front-nextjs/public/next.svg",
+    "front/front-nextjs/public/globe.svg",
+    "front/front-nextjs/public/file.svg",
+    "front/front-nextjs/README.md",
+    "ssh-keys.md",
     "README.md"
   ]
 }
